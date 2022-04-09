@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C8CD553D-28EE-3871-6694-E286A36558F2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DestroyOutOfBoundsX.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerControllerX.cs" Line="46" Column="35" />
+      <File FileName="Assets/Scripts/MoveLeftX.cs" Line="21" Column="46" />
+      <File FileName="Assets/Scripts/RepeatBackGroundX.cs" Line="8" Column="12" />
+      <File FileName="Assets/Scripts/SpawnManagerX.cs" Line="27" Column="6" />
+      <File FileName="Assets/Scripts/DestroyOutOfBoundsX.cs" Line="23" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="029ba1c1-ac54-4838-a53d-224f768a7008" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/apjenkins/Desktop/Unity/Projects/protoType_3_Vc/side_Scroller_2d_project/Assets/Scripts/RepeatBackGroundX.cs" relfile="Assets/Scripts/RepeatBackGroundX.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
